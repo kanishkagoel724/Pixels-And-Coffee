@@ -43,5 +43,5 @@ Pixels-And-Coffee/
 │   └── certificate/
 │       └── Certificates
 │
-└── documents/
+└── Documents/
     └── Resume
